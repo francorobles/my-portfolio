@@ -6,6 +6,21 @@ body {
   color: #4e4e4e!important;
 }
 
+
+.live-web{
+  text-align: center;
+  color: white !important;
+  margin-left: 120px;
+  margin-bottom: 20px;
+  background-color: #0078ff;
+  border: none;
+  border-radius: 4px;
+  height: 40px;
+  width: 115px;
+}
+
+.a:hover {opacity: 1}
+
 h1,
 h2,
 h3,
@@ -92,7 +107,7 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: .7;
+  opacity: .2;
 }
 
 .paralax-mf {
@@ -701,6 +716,7 @@ PORTFOLIO
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  
 }
 
 .work-box:hover img {
@@ -746,6 +762,9 @@ PORTFOLIO
 
 .w-title {
   font-size: 1.2rem;
+  margin: auto;
+  
+
 }
 
 /*

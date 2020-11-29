@@ -22,10 +22,10 @@ class About extends React.Component {
           value: "80"
         },
         {
-          id: "Python_skill",
-          content: "Python",
-          porcentage: "75%",
-          value: "75"
+          id: "Laravel_skill",
+          content: "Laravel",
+          porcentage: "85%",
+          value: "85"
         },
         {
           id: "VanillaJS_skill",
@@ -44,17 +44,23 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "Everything should be made as simple as possbile, but not simpler - Albert Einstein."
         },
+
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I am a full-stack web developer based in Metro Manila, Philippines."
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I started my full-stack Web Development career in 2018. I believe that knowledge is power, so I commit myself to learn new things and skills especially during these times today in which technology changes so fast — the information age. As an avid fan of self-development, I like to research and read life-changing books that can add more value and worth to myself, which I can use to help not only for myself but people around me."
+        },
+        {
+          id: "fourth-p-about",
+          content:
+            "During my free time, I also like to create beautiful graphics and write blogs so that I can further enhance my skills in design and writing. I am a very artisic type of person. Art is part of my life, and I want to creating something extraordinary out of what I've created."
         }
       ]
     };
@@ -112,7 +118,7 @@ class About extends React.Component {
                   <div className="col-md-6">
                     <div className="about-me pt-4 pt-md-0">
                       <div className="title-box-2">
-                        <h5 className="title-left">About Me</h5>
+                        <h4 className="title-left">ABOUT ME</h4>
                       </div>
                       {this.state.about_me.map(content => {
                         return (

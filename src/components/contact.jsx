@@ -1,5 +1,5 @@
 import React from "react";
-import imageOverlay from "../img/earth.jpg";
+import imageOverlay from "../img/dark-star.png";
 
 class Contact extends React.Component {
   render() {
@@ -99,7 +99,7 @@ class Contact extends React.Component {
                     </div>
                     <div className="col-md-6">
                       <div className="title-box-2 pt-4 pt-md-0">
-                        <h5 className="title-left">Get in Touch</h5>
+                        <h5 className="title-left">Let's Get In Touch</h5>
                       </div>
                       <div className="more-info">
                         <p className="lead">
@@ -119,7 +119,7 @@ class Contact extends React.Component {
                         <ul>
                           <li>
                             <a
-                              href=""
+                              href="https://codepen.io/amex-riexav"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -130,7 +130,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://github.com/amex23"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -141,7 +141,7 @@ class Contact extends React.Component {
                           </li>
                           <li>
                             <a
-                              href=""
+                              href="https://www.linkedin.com/in/janamir-xavier-89086018a/"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
