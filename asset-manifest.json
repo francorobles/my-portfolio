@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/amex23/my-portfolio.git/static/css/main.3859f583.chunk.css",
+    "main.js": "/amex23/my-portfolio.git/static/js/main.3ac9e73c.chunk.js",
+    "main.js.map": "/amex23/my-portfolio.git/static/js/main.3ac9e73c.chunk.js.map",
+    "runtime-main.js": "/amex23/my-portfolio.git/static/js/runtime-main.d00f716c.js",
+    "runtime-main.js.map": "/amex23/my-portfolio.git/static/js/runtime-main.d00f716c.js.map",
+    "static/css/2.242f24fe.chunk.css": "/amex23/my-portfolio.git/static/css/2.242f24fe.chunk.css",
+    "static/js/2.df4fd8bb.chunk.js": "/amex23/my-portfolio.git/static/js/2.df4fd8bb.chunk.js",
+    "static/js/2.df4fd8bb.chunk.js.map": "/amex23/my-portfolio.git/static/js/2.df4fd8bb.chunk.js.map",
+    "index.html": "/amex23/my-portfolio.git/index.html",
+    "precache-manifest.7ff9e6e37c4ca2fd72424c85ce481fe9.js": "/amex23/my-portfolio.git/precache-manifest.7ff9e6e37c4ca2fd72424c85ce481fe9.js",
+    "service-worker.js": "/amex23/my-portfolio.git/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/amex23/my-portfolio.git/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.3859f583.chunk.css.map": "/amex23/my-portfolio.git/static/css/main.3859f583.chunk.css.map",
+    "static/js/2.df4fd8bb.chunk.js.LICENSE": "/amex23/my-portfolio.git/static/js/2.df4fd8bb.chunk.js.LICENSE",
+    "static/media/1x1.png": "/amex23/my-portfolio.git/static/media/1x1.2d25f5ef.png",
+    "static/media/accessfort.png": "/amex23/my-portfolio.git/static/media/accessfort.6f2dbe6e.png",
+    "static/media/airfort.png": "/amex23/my-portfolio.git/static/media/airfort.a965b391.png",
+    "static/media/bluefort.png": "/amex23/my-portfolio.git/static/media/bluefort.5614c630.png",
+    "static/media/dark-star.png": "/amex23/my-portfolio.git/static/media/dark-star.73381133.png",
+    "static/media/diagfort.png": "/amex23/my-portfolio.git/static/media/diagfort.cfbd416c.png",
+    "static/media/font-awesome.css": "/amex23/my-portfolio.git/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/iojobsfort.png": "/amex23/my-portfolio.git/static/media/iojobsfort.b4a4d324.png",
+    "static/media/ionicons.css": "/amex23/my-portfolio.git/static/media/ionicons.c037dbbc.svg",
+    "static/media/male.png": "/amex23/my-portfolio.git/static/media/male.a82ab1cd.png",
+    "static/media/myImage.png": "/amex23/my-portfolio.git/static/media/myImage.bd80794f.png",
+    "static/media/plastfort.png": "/amex23/my-portfolio.git/static/media/plastfort.1e6c40c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d00f716c.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.df4fd8bb.chunk.js",
+    "static/css/main.3859f583.chunk.css",
+    "static/js/main.3ac9e73c.chunk.js"
+  ]
+}
